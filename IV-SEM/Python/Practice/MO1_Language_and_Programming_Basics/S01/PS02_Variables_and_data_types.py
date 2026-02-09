@@ -27,4 +27,4 @@ c1 = 5 + 3j
 c2 = complex(2,-1)
 print(c1,c2)
 print(c1.real)
-print(c1.imag)          //addition//subtraction//multiplication of //complex numbers
+print(c1.imag)          #addition//subtraction//multiplication of //complex numbers
