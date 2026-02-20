@@ -17,4 +17,4 @@ while attempts < max_attempts:
         print("Incorrect password. Try again.")
         if attempts == max_attempts:
             print("Account locked due to too many failed attempts.")
-"brak and continue statements"
+"break and continue statements"

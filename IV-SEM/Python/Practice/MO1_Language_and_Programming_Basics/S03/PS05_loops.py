@@ -22,6 +22,7 @@ while i >= 1:
     print(i,end =" ")
     i -= 1
 '''
+
 # even and odd numbers between 1 to n
 n = int(input())
 i = 1

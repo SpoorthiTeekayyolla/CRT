@@ -14,6 +14,7 @@ Data type:
     4.dictionary
     
 '''
+
 x = 10
 y = 12.56
 z = 3+6j

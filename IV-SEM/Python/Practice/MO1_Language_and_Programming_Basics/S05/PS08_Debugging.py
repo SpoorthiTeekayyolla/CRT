@@ -23,14 +23,16 @@ pdp commands:
 8.q-->quit the execution
 '''
 
-'''try:
+'''
+try:
     a = int(input("Enter a"))
     print(10/a)
 except ZeroDivisionError:
     print("Cannot divide by zero")
 except ValueError:
     print("Invalid input") 
-    '''
+    
+'''
 
 
 import pdb
@@ -40,7 +42,8 @@ def add(a,b):
     return a+b
 a = int(input("Enter a"))
 b = int(input("Enter b")) 
-print(add(a,b))   
+print(add(a,b))  
+ 
 '''
 # mutable and immutable types in Python
 Mutable types: list, set, dictionary, array
